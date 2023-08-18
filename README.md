@@ -17,6 +17,8 @@ Amidst these interwoven threads, the project introduces NAT Gateways, acting as 
 
 In this orchestration of technology, the project's objective is clear: to forge an environment that embodies resiliency, security, and scalability. Through Availability Zones, VPCs, subnets, security groups, Auto Scaling, Load Balancers, NAT gateways, and more, this AWS architecture emerges as a harmonious composition, ready to weather challenges and inspire confidence.
 
+![aws-production-architecture](https://github.com/Meldindavidsabu/Simple-AWS-Architecture-Used-In-Production/assets/80899101/a004beac-0f1d-4d83-be11-76d3a380bebe)
+
 **Step 1: Create a VPC with "VPC and More" Wizard**
 1. Log in to the AWS Management Console.
 2. Navigate to the VPC dashboard.
